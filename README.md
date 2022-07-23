@@ -71,7 +71,7 @@ i hope i help you out with that.
 ## [ How To Use ? ] 
 
 make sure your dll is in the same folder 
-**re-name** your dll to **pagedpool.dll** if not it wont inject
+**re-name** your dll to **test.dll** if not it wont inject
 **the dll must be in the same folder**
 
 
