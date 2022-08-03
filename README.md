@@ -7,7 +7,7 @@
 
 # now supports all Windows versions from 7 / 10 / 11
 # Version 2.0
-# run updated.exe
+# run injector.exe 
 
 
 # windows 11 support
@@ -16,7 +16,6 @@
 
 # to do when i have the time 
 - allow all games to be selected with dll + make a UI for easy injection 
-- type your own game windows
 
 Injector now works on 64 & 32 bit games
 
@@ -73,6 +72,7 @@ i hope i help you out with that.
 make sure your dll is in the same folder 
 **re-name** your dll to **test.dll** if not it wont inject
 **the dll must be in the same folder**
+then type your game class - example ( UnrealWindow ) 
 
 
 
