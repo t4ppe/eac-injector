@@ -2,11 +2,11 @@
 
 # go check out my other projects https://github.com/Skengdoo/HyperVisor-Injector
 # To Purchase Full Source add my discord skeng#9524
-- payments -> bitcoin | cashapp 
+- reasonable offers only
 
 
-# now supports all Windows versions from 7 / 10 / 11
-# Version 2.0
+# supports all Windows versions from 7 / 10 / 11
+# public version doesn't include ( emulator )
 # run injector.exe 
 
 
