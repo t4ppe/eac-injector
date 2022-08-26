@@ -1,12 +1,11 @@
 # EAC-BE-Injector
+secure working injector for your cheats 
 
-# go check out my other projects https://github.com/Skengdoo/HyperVisor-Injector
 # To Purchase Full Source add my discord skeng#9524
-- reasonable offers only
 
 
 # supports all Windows versions from 7 / 10 / 11
-# public version doesn't include ( emulator )
+# public version doesn't include ( emulator ) - add my discord to purchase
 # run injector.exe 
 
 
@@ -14,13 +13,10 @@
 - must disable exploit protection and exploit gaurd for windows 11 support to work 
 
 
-# to do when i have the time 
-- allow all games to be selected with dll + make a UI for easy injection 
-
 Injector now works on 64 & 32 bit games
 
 
-Active Updates
+# Active Updates
 
 # EAC Status : 🟢
 # Vangaurd Status : 🟢
@@ -105,3 +101,7 @@ discord- skeng#9524
 ## [ Why would i release this? ]
 i am releasing this as an executable due to me not wanting people selling my source code.
 the reason i released this is because i have just started college and have not enough time to keep working on my Pay to cheat as i have already made a lot of money from my cheat and development in other projects and still make an income from certain projects of mine that have been sold on to other branches and i just don't have the time to spend 12 hours coding everyday constantly like i use to but i will keep updating the driver and the injector for everyone that wants to play on anticheat games with there own software :)
+
+
+
+# go check out my other projects https://github.com/Skengdoo/HyperVisor-Injector
