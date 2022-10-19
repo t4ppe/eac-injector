@@ -4,16 +4,16 @@ secure working injector for your cheats
 # To Purchase Full Source add my discord skeng#9524
 
 
-# supports all Windows versions from 7 / 10 / 11
+# supports all Windows versions from 7 / 10 - 20H2
 # public version doesn't include ( emulator ) - add my discord to purchase
-# run injector.exe 
+# run injector 
 
 
 # windows 11 support
 - must disable exploit protection and exploit gaurd for windows 11 support to work 
 
 
-Injector now works on 64 & 32 bit games
+Injector works for 64bit & 32bit games
 
 
 # Active Updates
@@ -21,46 +21,11 @@ Injector now works on 64 & 32 bit games
 # EAC Status : 🟢
 # Vangaurd Status : 🟢
 # BattleEye Status : 🟢
-- Rust 🟢
-- Escape From Tarkov 🟢
-- Warzone 🟢
-- Arma3 🟢
-- Arma2 🟢
-- Rainbox Six Siege 🟢
-- Apex 🟢
-- Fortnite 🟢
-- Rainbow six siege 🟢
-- dead by daylight 🟢
-- Ark Survival 🟢
-- Hurtworld 🟢
-- Splitgate 🟢
-- RageMP 🟢
-- Valorant 🟢
-- Lost Ark🟢
-these are just examples of games it works for it works for all games
+# Riot Status : 🟢
+# Valve Status : 🟢
 
 
 This injector works for a few titles and works on mainly all game titles 
-
-
-Rust ,
-Escape From Tarkov,
-Rainbox Six Siege,
-Arma3, 
-Split Gate,
-Fortnite,
-Apex Legends,
-warzone, 
-counter strike,
-dead by daylight,
-
-Latest feature
-your own game titles
-
-
-
-i had a lot of free time but now i am at college and thought its useless leaving it laying around so here you go to everyone thats been wanting to go internal for games 
-i hope i help you out with that.
 
 
 ## [ How To Use ? ] 
@@ -97,11 +62,3 @@ contact me via discord or telegram if i don't respond to you quickly it's due to
 discord- skeng#9524
 
 
-
-## [ Why would i release this? ]
-i am releasing this as an executable due to me not wanting people selling my source code.
-the reason i released this is because i have just started college and have not enough time to keep working on my Pay to cheat as i have already made a lot of money from my cheat and development in other projects and still make an income from certain projects of mine that have been sold on to other branches and i just don't have the time to spend 12 hours coding everyday constantly like i use to but i will keep updating the driver and the injector for everyone that wants to play on anticheat games with there own software :)
-
-
-
-# go check out my other projects https://github.com/Skengdoo/HyperVisor-Injector
