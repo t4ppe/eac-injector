@@ -18,8 +18,7 @@ Injector works for 64bit & 32bit games
 
 # Active Updates
 
-# EAC Status : 🟢
-# Vangaurd Status : 🟢
+# EAC EOS Status : 🟢
 # BattleEye Status : 🟢
 # Riot Status : 🟢
 # Valve Status : 🟢
