@@ -1,7 +1,7 @@
 # EAC-BE-Injector
-secure working injector for your cheats 
+secure working injector for your internal cheats 
 
-# To Purchase Full Source add my discord skeng#9524
+# selling Full private Source add my discord skeng#9524
 
 
 # supports all Windows versions from 7 / 10 - 20H2
